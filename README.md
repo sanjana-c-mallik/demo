@@ -1,4 +1,3 @@
 # demo
 My First git repository
-<br> 
-Author sanjana
+<br> Author sanjana
